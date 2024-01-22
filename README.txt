@@ -1,1 +1,1 @@
-echo echo echo
+vim is interesting and useful.
